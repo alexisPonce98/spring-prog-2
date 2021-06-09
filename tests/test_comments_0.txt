@@ -1,0 +1,22 @@
+z, u;
+v0{
+  public: v;
+  private: x, y;
+    v1{
+      private: x, v;
+      x = y;
+      v = w;
+      v2{
+      	public: w;
+      	private: z,y;
+      	w=v;
+      	x=z;
+      	y=u;
+      }
+      x=y;
+      w=v;
+    }
+    x = y;
+    u = z;
+    v = w;
+} 
